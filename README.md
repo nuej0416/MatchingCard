@@ -5,7 +5,7 @@
   </p>
   
 ## ✨OVERVIEW
-#### Javascript를 학습하며 만든 카드 짝 맞추기 게임
+#### Javascript 팩토리패턴, 프로토 타입, 참고, 깊은복사의 전반적인 이해를 위해 만든 카드 짝 맞추기 게임
 ## ⚙TECHNOLOGY
 #### HTML, CSS, JS
 ## 🖼RESULT
